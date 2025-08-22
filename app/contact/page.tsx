@@ -237,7 +237,7 @@ export default function ContactPage() {
                           onChange={(e) =>
                             handleInputChange("name", e.target.value)
                           }
-                          placeholder="John Doe"
+                          placeholder="Enter Your Name"
                           required
                         />
                       </div>
@@ -251,7 +251,7 @@ export default function ContactPage() {
                           onChange={(e) =>
                             handleInputChange("email", e.target.value)
                           }
-                          placeholder="j"
+                          placeholder="Enter Your Email"
                           required
                         />
                       </div>
@@ -408,7 +408,7 @@ export default function ContactPage() {
                     <div>
                       <div className="font-medium">Email</div>
                       <div className="text-sm text-muted-foreground">
-                        hello@digitalgrowth.com
+                        team.nextgensolution1@gmail.com
                       </div>
                     </div>
                   </div>
